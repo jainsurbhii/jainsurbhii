@@ -25,7 +25,7 @@ Languages and Tools:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Tata Consultancy Services
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JavaScript, Angular
 - 💬 Ask me about Anything
 - 📫 How to reach me: www.linkedin.com/in/surbhi-jain-1b9160179
 
